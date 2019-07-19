@@ -1,3 +1,9 @@
+xf86-video-armsoc (1.4.2) stretch; urgency=medium
+
+  * Not to test
+
+ -- Caesar Wang <wxt@rock-chips.com>  Fri, 19 Jul 2019 15:09:00 +0300
+
 xf86-video-armsoc (1.4.1+rockchip20150528-mth) stretch; urgency=medium
 
   * Merged Ubuntu Artful package source with the Ayufan Rockchip package
